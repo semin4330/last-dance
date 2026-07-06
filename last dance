@@ -26,4 +26,4 @@ y_test_5 = (y_test == 5)
 print(y_train_5)
 print(y_test_5)
 print(y_train_5.shape)
-print(y_test_5.shape)
+print(y_test_5.shape) # 여기수정
