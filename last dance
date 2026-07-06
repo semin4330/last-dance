@@ -10,7 +10,7 @@ print(y)
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 some_digit = X[23]
-some_digit_image = some_digit.reshape(28, 28)
+some_digit_image = some_digit.reshape(26, 26)
 
 plt.imshow(some_digit_image, cmap=mpl.cm.binary)
 plt.show()
